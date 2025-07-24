@@ -1,4 +1,4 @@
-# Fashion Data Analysis 🧥👗
+# Fashion Data Analysis 
 
 This project is a simple data analysis on a synthetic fashion dataset generated using Python. It covers data cleaning, transformation, and visualization using:
 
