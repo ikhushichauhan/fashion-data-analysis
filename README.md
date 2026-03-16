@@ -21,4 +21,4 @@ This project is a simple data analysis on a synthetic fashion dataset generated 
 
 ## Files
 - `fashion_dataset.csv`: Generated dataset  
-- `Khushi[1].ipynb`: Jupyter notebook with analysis  
+- `Khushi[1].ipynb`: Jupyter notebook with analysis.
